@@ -1,9 +1,9 @@
-### INSTALL
+## INSTALL
 ```
     npm install
 ```
 
-###START
+## START
 ```
     npm start
 ```
